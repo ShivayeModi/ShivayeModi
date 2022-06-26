@@ -7,4 +7,8 @@
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 I’m looking for help regarding beginning of my OpenSource journey
 - 💬 Ask me about Data Science,Computer Vision or any other tech related stuff
-- 📫 How to reach me: **LinkedIn**: [linkedin.com/in/shivaye-modi-44a3631b2](https://www.linkedin.com/in/shivaye-modi-44a3631b2/)                                                  ,**Twitter**: [@shivaye_modi](https://twitter.com/shivaye_modi)                 
+- 📫 How to reach me: **LinkedIn**: [linkedin.com/in/shivaye-modi-44a3631b2](https://www.linkedin.com/in/shivaye-modi-44a3631b2/)                                                  ,**Twitter**: [@shivaye_modi](https://twitter.com/shivaye_modi) 
+
+<center>
+<img src = "https://github-readme-stats.vercel.app/api?username=ShivayeModi&show_icons=true&theme=chartreuse-dark"> 
+</center>
