@@ -1,6 +1,6 @@
 # Hi there 👋 , I am Shivaye Modi !
 
-<a href="https://app.daily.dev/Shivaye_Modi"><img src="https://github.com/ShivayeModi/ShivayeModi/blob/main/devcard.svg" width="400" alt="Shivaye Modi's Dev Card"/></a>
+<a href="https://app.daily.dev/Shivaye_Modi"><img src="https://github.com/ShivayeModi/ShivayeModi/blob/main/devcard.svg" width="400" align = "center" alt="Shivaye Modi's Dev Card"/></a>
 
 - 🔭 I’m currently working on 3D App Development in Swift-iOS framework
 - 🌱 I’m currently learning SwiftUI, ARKit
