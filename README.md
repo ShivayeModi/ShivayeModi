@@ -13,6 +13,6 @@
 
 
 <a href="https://app.daily.dev/Shivaye_Modi" style="text-align: center"><img src="https://github.com/ShivayeModi/ShivayeModi/blob/main/devcard.svg" width="400" align = "left" alt="Shivaye Modi's Dev Card"/></a>
-<img align="right" width=55% src = "https://github-readme-stats.vercel.app/api?username=ShivayeModi&show_icons=true&theme=chartreuse-dark"> 
+<img align="right" width=45% src = "https://github-readme-stats.vercel.app/api?username=ShivayeModi&show_icons=true&theme=chartreuse-dark"> 
 
-<img align="right" width=55% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayeModi&layout=compact">
+<img align="right" width=45% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayeModi&layout=compact">
