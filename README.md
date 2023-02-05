@@ -4,7 +4,7 @@
 # Hi there 👋 , I am Shivaye Modi !
 
 - 🔭 I’m currently working on 3D App Development in Swift-iOS framework
-- 🌱 I’m currently learning SwiftUI, ARKit
+- 🌱 I’m currently learning ARKit
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 I’m looking for help regarding beginning of my OpenSource journey
 - 💬 Ask me about Data Science,Computer Vision or any other tech related stuff
